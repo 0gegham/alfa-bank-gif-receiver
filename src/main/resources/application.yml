@@ -1,0 +1,7 @@
+currency:
+  url: https://openexchangerates.org/api
+  api_id: your_api_id
+  exchange: RUB
+gif:
+  url: https://api.giphy.com/v1/gifs
+  api_key: your_api_key
